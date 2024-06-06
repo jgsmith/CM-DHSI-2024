@@ -1,4 +1,4 @@
-# Sheep and Teacups
+# Rings and Poles
 
 [back to index](../../)
 
@@ -17,5 +17,3 @@ main {
     display: block;
 }
 </style>
-
-Click to place teacups and watch the sheep wander around and knock them over.
