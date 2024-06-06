@@ -12,7 +12,7 @@ Projects for the critical making course in week 1 of DHSI 2024.
         * [ShakeGPT](./chatgpt-shakespeare-tracery.html)
     * Text generation without ChatGPT-provided parts
         * [Pipe Dream](./pipe-dream.html)
-* Processing / P5.js
+* Processing / P5.js (with the help of ChatGPT)
     * [Rings and Poles](./sketchbook/1/)
 
         <img src="./img/Screenshot from 2024-06-06 15-03-16.png" width="200px">
