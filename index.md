@@ -3,6 +3,7 @@
 Projects for the critical making course in week 1 of DHSI 2024.
 
 * [Sketches](./sketches.html)
+* [Twine](./WTF_.html)
 * [Bitsy](./bitsy.html)
 * Tracery
     * Text generation using ChatGPT-provided parts
