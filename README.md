@@ -4,6 +4,7 @@ Projects for the critical making course in week 1 of DHSI 2024.
 
 * [Sketches](./sketches.html)
 * Based on [Silent Rain](https://tapas.io/series/Silent-Rain/info)
+    * [Yarn](./img/IMG_1530.jpg)
     * [Twine](./WTF_.html)
     * [Bitsy](./bitsy.html)
 * Tracery
